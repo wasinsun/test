@@ -1,4 +1,12 @@
 Hello
+<<<<<<< HEAD
 dnfnadvnadnvodnv
 
 //pornhub
+=======
+<<<<<<< HEAD
+dnfnadvnadnvodnv
+=======
+//new branch
+>>>>>>> Ray
+>>>>>>> ce67b1d7cc8079338bc7ed3f3096d516f7041e4b
