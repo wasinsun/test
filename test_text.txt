@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 dnfnadvnadnvodnv
+=======
+//new branch
+>>>>>>> Ray
